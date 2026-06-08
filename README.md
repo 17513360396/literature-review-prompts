@@ -1,25 +1,32 @@
-# 文献综述 AI Prompt 合集
+# 📚 Paper-Claude 学术资源合集
 
-> 从 GitHub 高星仓库搜集整理的**毕业论文/期刊论文文献综述专用 Prompt 合集**。
+> 从 GitHub 高星仓库搜集整理的学术 AI Prompt 与工具资源合集。
+
+## 📂 资源文件
+
+| 文件 | 内容 | 收录数 |
+|------|------|--------|
+| [文献综述AI_Prompt合集.md](./文献综述AI_Prompt合集.md) | 毕业论文/期刊论文文献综述专用 Prompt | 100+ 条 Prompt |
+| [ChatGPT辅助论文阅读_Prompt与工具合集.md](./ChatGPT辅助论文阅读_Prompt与工具合集.md) | ChatGPT 辅助论文阅读、理解、分析的 Prompt 与工具 | 15+ 个仓库 |
+| [最优插值_海洋温盐数据融合_GitHub资源合集.md](./最优插值_海洋温盐数据融合_GitHub资源合集.md) | 最优插值海洋温盐数据融合相关资源 | - |
 
 ## 内容概览
 
-- **文献检索与论文筛选** — 顶级期刊识别、搜索策略生成、论文评分筛选
-- **综述框架设计** — 框架设计、论文关系分析、研究分支识别、大纲生成
-- **论文内容提炼** — 单篇提炼、多篇对比、方法论分析、观点整理
-- **综述主体写作** — 绪论、主体段落、比较分析、问题与挑战、结论
-- **英文 Literature Review Prompt** — 20+ 条系统性文献综述 Prompt
-- **顶会 Related Work 撰写** — ACL/NeurIPS/CVPR 级别的写作模板与自查清单
-- **质量检查与优化** — 逻辑检查、创新性增强、常见问题诊断、可读性改进
+### 文献综述 AI Prompt 合集
+- 文献检索与论文筛选 — 顶级期刊识别、搜索策略生成、论文评分筛选
+- 综述框架设计 — 框架设计、论文关系分析、研究分支识别、大纲生成
+- 论文内容提炼 — 单篇提炼、多篇对比、方法论分析、观点整理
+- 综述主体写作 — 绪论、主体段落、比较分析、问题与挑战、结论
+- 英文 Literature Review Prompt — 20+ 条系统性文献综述 Prompt
+- 顶会 Related Work 撰写 — ACL/NeurIPS/CVPR 级别的写作模板与自查清单
+- 质量检查与优化 — 逻辑检查、创新性增强、常见问题诊断、可读性改进
 
-## 收录来源
-
-| 仓库 | Stars | 说明 |
-|------|-------|------|
-| [ahmetbersoz/chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) | ~4,600+ | 英文学术写作全流程 |
-| [bohyy/academic-ai-prompt](https://github.com/bohyy/academic-ai-prompt) | ~900+ | 中文研究生专用 Prompt 库 |
-| [ChenZiHong-Gavin/paper-prompt](https://github.com/ChenZiHong-Gavin/paper-prompt) | ~58 | 中文论文全生命周期 Prompt |
-| [drshahizan/Generative-AI-Playground](https://github.com/drshahizan/Generative-AI-Playground) | 持续维护 | 20+ 文献综述 Prompt |
+### ChatGPT 辅助论文阅读合集
+- Prompt 模板与工程化合集 — 6 个高质量 Prompt 库
+- 论文阅读与摘要工具 — 4 个开源论文阅读器
+- Awesome 合集与导航 — 4 个资源大全导航
+- RAG/Agent 增强型工具 — 3 个高级检索增强工具
+- 精选 Prompt 模板 — 5 套即用型论文阅读 Prompt
 
 ## 使用说明
 
